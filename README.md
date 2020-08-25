@@ -1,2 +1,2 @@
 # javafeaturesstudies
-A simple repo for my studies about java version features a some tests about it.
+A simple repo for my studies about java version features and some tests about it.
